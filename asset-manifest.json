@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MysticIDE/static/css/main.743364a1.css",
+    "main.js": "/MysticIDE/static/js/main.8d61161f.js",
+    "static/js/453.6dc39f21.chunk.js": "/MysticIDE/static/js/453.6dc39f21.chunk.js",
+    "index.html": "/MysticIDE/index.html",
+    "static/media/logo.svg": "/MysticIDE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.743364a1.css.map": "/MysticIDE/static/css/main.743364a1.css.map",
+    "main.8d61161f.js.map": "/MysticIDE/static/js/main.8d61161f.js.map",
+    "453.6dc39f21.chunk.js.map": "/MysticIDE/static/js/453.6dc39f21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.743364a1.css",
+    "static/js/main.8d61161f.js"
+  ]
+}
